@@ -4,7 +4,7 @@ Este projeto tem como objetivo demonstrar o uso de **testes de unidade** em Java
 
 ## **Pré-requisitos**
 
-- Node.js instalado
+- Node.js
 - NPM
 
 ## **Instalação**
@@ -12,4 +12,11 @@ Este projeto tem como objetivo demonstrar o uso de **testes de unidade** em Java
 1. Clone o repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/XXXXXX
+   git clone https://github.com/joao-pedro-rdo/teste-unidade.git
+   ```
+
+## **Execução do teste**
+```bash
+npm test
+```
+   
