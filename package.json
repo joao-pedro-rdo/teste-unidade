@@ -1,0 +1,12 @@
+{
+  "name": "teste-unidade",
+  "version": "1.0.0",
+  "description": "Exemplo de testes de unidade usando Jest",
+  "main": "src/calculadora.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
